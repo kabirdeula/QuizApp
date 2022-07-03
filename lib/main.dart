@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:quiz/screens/welcome/welcome_screen.dart';
-import 'package:get/get_navigation/src/root/get_material_app.dart';
 
 void main() {
   runApp(const MyApp());
