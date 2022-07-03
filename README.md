@@ -4,10 +4,10 @@ A Quiz App made using Flutter.
 
 ## Packages
 
-- [websafe_svg](https://pub.dev/packages/websafe_svg)
+- [flutter_svg](https://pub.dev/packages/flutter_svg)
 
 ```
-flutter pub add websafe_svg
+flutter pub add flutter_svg
 ```
 
 - [GetX](https://pub.dev/packages/get)
